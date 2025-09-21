@@ -1,0 +1,7 @@
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:90:5:main	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:200:6:SystemClock_Config	128	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:269:6:PeriphCommonClock_Config	4	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:277:13:SystemPower_Config	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:315:13:MX_NVIC_Init	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:334:6:HAL_TIM_PeriodElapsedCallback	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/main.c:352:6:Error_Handler	4	static,ignoring_inline_asm

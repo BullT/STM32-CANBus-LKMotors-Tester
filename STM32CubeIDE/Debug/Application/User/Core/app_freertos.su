@@ -1,0 +1,5 @@
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/app_freertos.c:73:6:vApplicationMallocFailedHook	4	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/app_freertos.c:89:6:vApplicationIdleHook	4	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/app_freertos.c:104:6:vApplicationStackOverflowHook	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/app_freertos.c:117:6:MX_FREERTOS_Init	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/Core/Src/app_freertos.c:161:6:StartDefaultTask	16	static

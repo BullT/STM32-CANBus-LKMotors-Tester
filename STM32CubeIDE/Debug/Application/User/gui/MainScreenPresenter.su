@@ -1,0 +1,27 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:91:5:touchgfx::colortype::colortype(uint32_t)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:127:5:touchgfx::Rect::Rect()	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:140:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:37:18:virtual void touchgfx::Presenter::activate()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:47:18:virtual void touchgfx::Presenter::deactivate()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:touchgfx::Presenter::~Presenter()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:virtual touchgfx::Presenter::~Presenter()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:58:5:touchgfx::Presenter::Presenter()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:9:5:ModelListener::ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:ModelListener::~ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::receptionData(uint8_t*)	16	static
+../../TouchGFX/gui/include/gui/mainscreen_screen/MainScreenPresenter.hpp:28:13:MainScreenPresenter::~MainScreenPresenter()	16	static
+../../TouchGFX/gui/include/gui/mainscreen_screen/MainScreenPresenter.hpp:28:13:virtual MainScreenPresenter::~MainScreenPresenter()	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:59:5:touchgfx::TypedText::TypedText(touchgfx::TypedTextId)	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	16	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:4:1:MainScreenPresenter::MainScreenPresenter(MainScreenView&)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:10:6:virtual void MainScreenPresenter::activate()	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:15:6:virtual void MainScreenPresenter::deactivate()	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:20:6:virtual void MainScreenPresenter::receptionData(uint8_t*)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:25:6:virtual void MainScreenPresenter::sendData(uint8_t*)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:28:1:void __static_initialization_and_destruction_0()	24	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:74:12:touchgfx::Keyboard::Layout::~Layout()	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:28:1:void __static_initialization_and_destruction_1()	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:28:1:cpp)	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenPresenter.cpp:28:1:cpp)	8	static

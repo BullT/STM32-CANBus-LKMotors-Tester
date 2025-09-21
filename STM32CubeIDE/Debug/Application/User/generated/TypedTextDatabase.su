@@ -1,0 +1,7 @@
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:74:43:const touchgfx::TypedText::TypedTextData* TypedTextDatabase::getInstance(touchgfx::LanguageId)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:79:10:uint16_t TypedTextDatabase::getInstanceSize()	4	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:84:24:const touchgfx::Font** TypedTextDatabase::getFonts()	4	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:89:23:const touchgfx::Font* TypedTextDatabase::setFont(touchgfx::FontId, const touchgfx::Font*)	24	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:96:6:void TypedTextDatabase::resetFont(touchgfx::FontId)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:111:1:void __static_initialization_and_destruction_0()	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:111:1:cpp)	8	static
