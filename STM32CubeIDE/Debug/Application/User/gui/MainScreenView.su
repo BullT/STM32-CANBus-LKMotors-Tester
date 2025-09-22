@@ -78,11 +78,11 @@
 E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:9:1:MainScreenView::MainScreenView()	64	static
 E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:36:6:virtual void MainScreenView::setupScreen()	16	static
 E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:41:6:virtual void MainScreenView::tearDownScreen()	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:46:6:virtual void MainScreenView::sendClicked()	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:51:6:virtual void MainScreenView::keyboardClose()	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:57:6:virtual void MainScreenView::keyboardOK(uint8_t)	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:126:6:virtual void MainScreenView::flexButtonsCallbackHandler(const touchgfx::AbstractButtonContainer&)	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:133:6:virtual void MainScreenView::receptionData(uint8_t*)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:46:6:virtual void MainScreenView::sendClicked()	24	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:53:6:virtual void MainScreenView::keyboardClose()	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:59:6:virtual void MainScreenView::keyboardOK(uint8_t)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:128:6:virtual void MainScreenView::flexButtonsCallbackHandler(const touchgfx::AbstractButtonContainer&)	16	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:135:6:virtual void MainScreenView::receptionData(uint8_t*)	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:138:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = short unsigned int]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:138:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = short unsigned int]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:138:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = unsigned char]	16	static
@@ -95,9 +95,9 @@ E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscree
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:440:5:touchgfx::Callback<dest_type, void, void, void>::Callback(dest_type*, void (dest_type::*)()) [with dest_type = MainScreenView]	24	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:134:7:constexpr touchgfx::GenericCallback<const touchgfx::AbstractButtonContainer&>::GenericCallback()	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:373:5:touchgfx::Callback<dest_type, T1, void, void>::Callback(dest_type*, void (dest_type::*)(T1)) [with dest_type = MainScreenView; T1 = const touchgfx::AbstractButtonContainer&]	24	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:158:1:void __static_initialization_and_destruction_0()	24	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:160:1:void __static_initialization_and_destruction_0()	24	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:74:12:touchgfx::Keyboard::Layout::~Layout()	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:158:1:void __static_initialization_and_destruction_1()	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:160:1:void __static_initialization_and_destruction_1()	8	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = MainScreenView; T1 = const touchgfx::AbstractButtonContainer&]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = MainScreenView; T1 = const touchgfx::AbstractButtonContainer&]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:449:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = MainScreenView]	16	static
@@ -108,5 +108,5 @@ E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscree
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = CustomKeyboard; T1 = short unsigned int]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:449:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = CustomKeyboard]	16	static
 ../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:459:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = CustomKeyboard]	16	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:158:1:cpp)	8	static
-E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:158:1:cpp)	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:160:1:cpp)	8	static
+E:/GoodSync/Proyectos/Etiquetadora/STM32/CANBusTester/TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:160:1:cpp)	8	static

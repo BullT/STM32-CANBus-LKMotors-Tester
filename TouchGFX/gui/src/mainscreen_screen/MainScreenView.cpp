@@ -45,6 +45,8 @@ void MainScreenView::tearDownScreen()
 
 void MainScreenView::sendClicked()
 {
+	uint8_t data[8] = {0};
+	receptionData(data);
 	presenter->sendData(sendBuffer);
 }
 
