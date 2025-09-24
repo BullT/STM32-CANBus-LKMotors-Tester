@@ -3,3 +3,5 @@ A simple CAN Bus tester for controlling LK-Motors using the STM32-based Riverdi 
 
 CAN-Bus speed 1Mbps
 
+https://youtu.be/pEUlfu3JpVM
+
